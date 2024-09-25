@@ -1,0 +1,565 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//https://www.feiertage-deutschland.de/kalender-download/
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:fc95de16558c7b0aad3ea9e1d7c19f1b@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2019: https://www.feiertage-deutschland.de/schulferien/2019/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/winterferien/
+SUMMARY:Winterferien Berlin 2019
+DTSTART;VALUE=DATE:20190204
+DTEND;VALUE=DATE:20190210
+END:VEVENT
+BEGIN:VEVENT
+UID:bf9e4261bc0dc24628ccf141b6337ca1@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2019: https://www.feiertage-deutschland.de/schulferien/2019/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/osterferien/
+SUMMARY:Osterferien Berlin 2019
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190427
+END:VEVENT
+BEGIN:VEVENT
+UID:b8c863cd2a2725100d4ddbac1dafd4bd@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2019: https://www.feiertage-deutschland.de/schulferien/2019/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/sommerferien/
+SUMMARY:Sommerferien Berlin 2019
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190803
+END:VEVENT
+BEGIN:VEVENT
+UID:277654f6a173a3fc2f544aacccea75de@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2019: https://www.feiertage-deutschland.de/schulferien/2019/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/herbstferien/
+SUMMARY:Herbstferien Berlin 2019
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191020
+END:VEVENT
+BEGIN:VEVENT
+UID:b435389536d86b7eb3c1f18df427359e@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2019: https://www.feiertage-deutschland.de/schulferien/2019/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/weihnachtsferien/
+SUMMARY:Weihnachtsferien Berlin 2019
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20200105
+END:VEVENT
+BEGIN:VEVENT
+UID:34affbe0937d744d357198918c6b0b33@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2019: https://www.feiertage-deutschland.de/schulferien/2019/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/bewegliche-ferientage/
+SUMMARY:Schulfreier Tag Berlin 2019
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+END:VEVENT
+BEGIN:VEVENT
+UID:c47561e038be7d44c48d253388387788@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2020: https://www.feiertage-deutschland.de/schulferien/2020/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/winterferien/
+SUMMARY:Winterferien Berlin 2020
+DTSTART;VALUE=DATE:20200203
+DTEND;VALUE=DATE:20200209
+END:VEVENT
+BEGIN:VEVENT
+UID:d5ce847a8f51ac7d8e99552bdef7b41d@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2020: https://www.feiertage-deutschland.de/schulferien/2020/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/osterferien/
+SUMMARY:Osterferien Berlin 2020
+DTSTART;VALUE=DATE:20200406
+DTEND;VALUE=DATE:20200418
+END:VEVENT
+BEGIN:VEVENT
+UID:f044e73569e4797f7abf5e1f448320ca@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2020: https://www.feiertage-deutschland.de/schulferien/2020/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/sommerferien/
+SUMMARY:Sommerferien Berlin 2020
+DTSTART;VALUE=DATE:20200625
+DTEND;VALUE=DATE:20200808
+END:VEVENT
+BEGIN:VEVENT
+UID:769cf23105bc2612ced315e8cc02cc9c@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2020: https://www.feiertage-deutschland.de/schulferien/2020/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/herbstferien/
+SUMMARY:Herbstferien Berlin 2020
+DTSTART;VALUE=DATE:20201012
+DTEND;VALUE=DATE:20201025
+END:VEVENT
+BEGIN:VEVENT
+UID:bf763f6b089fb22044fd66bc4b045d9a@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2020: https://www.feiertage-deutschland.de/schulferien/2020/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/weihnachtsferien/
+SUMMARY:Weihnachtsferien Berlin 2020
+DTSTART;VALUE=DATE:20201221
+DTEND;VALUE=DATE:20210103
+END:VEVENT
+BEGIN:VEVENT
+UID:1f93d13ac29311db615fa66c27b90654@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2020: https://www.feiertage-deutschland.de/schulferien/2020/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/bewegliche-ferientage/
+SUMMARY:Schulfreier Tag Berlin 2020
+DTSTART;VALUE=DATE:20200508
+DTEND;VALUE=DATE:20200509
+END:VEVENT
+BEGIN:VEVENT
+UID:aebb7026af49e410dde9200ccef9089a@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2020: https://www.feiertage-deutschland.de/schulferien/2020/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/bewegliche-ferientage/
+SUMMARY:Schulfreier Tag Berlin 2020
+DTSTART;VALUE=DATE:20200522
+DTEND;VALUE=DATE:20200523
+END:VEVENT
+BEGIN:VEVENT
+UID:6a4588b01d40d027ae8f1c6dd0540030@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2021: https://www.feiertage-deutschland.de/schulferien/2021/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/winterferien/
+SUMMARY:Winterferien Berlin 2021
+DTSTART;VALUE=DATE:20210201
+DTEND;VALUE=DATE:20210207
+END:VEVENT
+BEGIN:VEVENT
+UID:de6f00e8a86a7adc7b1475e4e973a0ee@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2021: https://www.feiertage-deutschland.de/schulferien/2021/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/osterferien/
+SUMMARY:Osterferien Berlin 2021
+DTSTART;VALUE=DATE:20210329
+DTEND;VALUE=DATE:20210411
+END:VEVENT
+BEGIN:VEVENT
+UID:759165026feb2fa6e88cb34f8b303d88@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2021: https://www.feiertage-deutschland.de/schulferien/2021/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/sommerferien/
+SUMMARY:Sommerferien Berlin 2021
+DTSTART;VALUE=DATE:20210624
+DTEND;VALUE=DATE:20210807
+END:VEVENT
+BEGIN:VEVENT
+UID:7676a3ac70301b88f136380d861b0d2d@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2021: https://www.feiertage-deutschland.de/schulferien/2021/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/herbstferien/
+SUMMARY:Herbstferien Berlin 2021
+DTSTART;VALUE=DATE:20211011
+DTEND;VALUE=DATE:20211024
+END:VEVENT
+BEGIN:VEVENT
+UID:a421d089d891e4ee5e428485ad1f045e@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2021: https://www.feiertage-deutschland.de/schulferien/2021/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/weihnachtsferien/
+SUMMARY:Weihnachtsferien Berlin 2021
+DTSTART;VALUE=DATE:20211224
+DTEND;VALUE=DATE:20220101
+END:VEVENT
+BEGIN:VEVENT
+UID:d70164bc241e50099c040abafe236b09@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2021: https://www.feiertage-deutschland.de/schulferien/2021/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/bewegliche-ferientage/
+SUMMARY:Schulfreier Tag Berlin 2021
+DTSTART;VALUE=DATE:20210514
+DTEND;VALUE=DATE:20210515
+END:VEVENT
+BEGIN:VEVENT
+UID:0983dc9b138810213bf0b043474b7c77@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2022: https://www.feiertage-deutschland.de/schulferien/2022/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/winterferien/
+SUMMARY:Winterferien Berlin 2022
+DTSTART;VALUE=DATE:20220129
+DTEND;VALUE=DATE:20220206
+END:VEVENT
+BEGIN:VEVENT
+UID:019ea6478725ce82be28be3c105a0a89@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2022: https://www.feiertage-deutschland.de/schulferien/2022/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/osterferien/
+SUMMARY:Osterferien Berlin 2022
+DTSTART;VALUE=DATE:20220411
+DTEND;VALUE=DATE:20220424
+END:VEVENT
+BEGIN:VEVENT
+UID:f0ec6ddf85dfa900d9a129b8343c2a10@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2022: https://www.feiertage-deutschland.de/schulferien/2022/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/sommerferien/
+SUMMARY:Sommerferien Berlin 2022
+DTSTART;VALUE=DATE:20220707
+DTEND;VALUE=DATE:20220820
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3d33bef65c34d28efe2e290d9ca264@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2022: https://www.feiertage-deutschland.de/schulferien/2022/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/herbstferien/
+SUMMARY:Herbstferien Berlin 2022
+DTSTART;VALUE=DATE:20221024
+DTEND;VALUE=DATE:20221106
+END:VEVENT
+BEGIN:VEVENT
+UID:6e82e312edb94d613d1813a84daf1806@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2022: https://www.feiertage-deutschland.de/schulferien/2022/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/weihnachtsferien/
+SUMMARY:Weihnachtsferien Berlin 2022
+DTSTART;VALUE=DATE:20221222
+DTEND;VALUE=DATE:20230103
+END:VEVENT
+BEGIN:VEVENT
+UID:d0bf9611e8b30518b10bfd5b4f9189a4@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2022: https://www.feiertage-deutschland.de/schulferien/2022/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/bewegliche-ferientage/
+SUMMARY:Schulfreier Tag Berlin 2022
+DTSTART;VALUE=DATE:20220307
+DTEND;VALUE=DATE:20220308
+END:VEVENT
+BEGIN:VEVENT
+UID:f05dd0e2440f89872a1dfddb1e62aa26@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2022: https://www.feiertage-deutschland.de/schulferien/2022/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/bewegliche-ferientage/
+SUMMARY:Schulfreier Tag Berlin 2022
+DTSTART;VALUE=DATE:20220527
+DTEND;VALUE=DATE:20220528
+END:VEVENT
+BEGIN:VEVENT
+UID:45d763e5e13f1f9911379baa826ab726@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2023: https://www.feiertage-deutschland.de/schulferien/2023/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/winterferien/
+SUMMARY:Winterferien Berlin 2023
+DTSTART;VALUE=DATE:20230130
+DTEND;VALUE=DATE:20230205
+END:VEVENT
+BEGIN:VEVENT
+UID:09b4b8122799c7fccdf7fad8d4f6811b@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2023: https://www.feiertage-deutschland.de/schulferien/2023/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/osterferien/
+SUMMARY:Osterferien Berlin 2023
+DTSTART;VALUE=DATE:20230403
+DTEND;VALUE=DATE:20230415
+END:VEVENT
+BEGIN:VEVENT
+UID:8fc06d86d1e9f24d52341610e21cae6d@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2023: https://www.feiertage-deutschland.de/schulferien/2023/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/pfingstferien/
+SUMMARY:Pfingstferien Berlin 2023
+DTSTART;VALUE=DATE:20230530
+DTEND;VALUE=DATE:20230531
+END:VEVENT
+BEGIN:VEVENT
+UID:aef6cac77803824780a13b60c7f3d65e@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2023: https://www.feiertage-deutschland.de/schulferien/2023/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/sommerferien/
+SUMMARY:Sommerferien Berlin 2023
+DTSTART;VALUE=DATE:20230713
+DTEND;VALUE=DATE:20230826
+END:VEVENT
+BEGIN:VEVENT
+UID:66ea8eedc3b9afb8b568fdf18ce9a81d@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2023: https://www.feiertage-deutschland.de/schulferien/2023/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/herbstferien/
+SUMMARY:Herbstferien Berlin 2023
+DTSTART;VALUE=DATE:20231023
+DTEND;VALUE=DATE:20231105
+END:VEVENT
+BEGIN:VEVENT
+UID:656d652bd357ca12ad2b891dc656e448@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2023: https://www.feiertage-deutschland.de/schulferien/2023/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/weihnachtsferien/
+SUMMARY:Weihnachtsferien Berlin 2023
+DTSTART;VALUE=DATE:20231223
+DTEND;VALUE=DATE:20240106
+END:VEVENT
+BEGIN:VEVENT
+UID:6b5ca6e43aaf939305bd11c3998a97e3@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2023: https://www.feiertage-deutschland.de/schulferien/2023/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/bewegliche-ferientage/
+SUMMARY:Schulfreier Tag Berlin 2023
+DTSTART;VALUE=DATE:20230519
+DTEND;VALUE=DATE:20230520
+END:VEVENT
+BEGIN:VEVENT
+UID:592fd60bd83d6b9e34b05158e8534f0b@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2023: https://www.feiertage-deutschland.de/schulferien/2023/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/bewegliche-ferientage/
+SUMMARY:Schulfreier Tag Berlin 2023
+DTSTART;VALUE=DATE:20231002
+DTEND;VALUE=DATE:20231003
+END:VEVENT
+BEGIN:VEVENT
+UID:71df13526bc1e719684ccfd90afe361e@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2024: https://www.feiertage-deutschland.de/schulferien/2024/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/winterferien/
+SUMMARY:Winterferien Berlin 2024
+DTSTART;VALUE=DATE:20240205
+DTEND;VALUE=DATE:20240211
+END:VEVENT
+BEGIN:VEVENT
+UID:4f266a529ca210b9da2b70900dc22785@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2024: https://www.feiertage-deutschland.de/schulferien/2024/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/osterferien/
+SUMMARY:Osterferien Berlin 2024
+DTSTART;VALUE=DATE:20240325
+DTEND;VALUE=DATE:20240406
+END:VEVENT
+BEGIN:VEVENT
+UID:6578c212ab5022c3bc38f8450d8822b2@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2024: https://www.feiertage-deutschland.de/schulferien/2024/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/sommerferien/
+SUMMARY:Sommerferien Berlin 2024
+DTSTART;VALUE=DATE:20240718
+DTEND;VALUE=DATE:20240831
+END:VEVENT
+BEGIN:VEVENT
+UID:76fe97d5529a33f67a048d8d8994a2a2@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2024: https://www.feiertage-deutschland.de/schulferien/2024/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/herbstferien/
+SUMMARY:Herbstferien Berlin 2024
+DTSTART;VALUE=DATE:20241021
+DTEND;VALUE=DATE:20241103
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d231b8befa27568aaaae35347e08a9@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2024: https://www.feiertage-deutschland.de/schulferien/2024/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/weihnachtsferien/
+SUMMARY:Weihnachtsferien Berlin 2024
+DTSTART;VALUE=DATE:20241223
+DTEND;VALUE=DATE:20250101
+END:VEVENT
+BEGIN:VEVENT
+UID:4d78c81f398b1f7ca537c94aed25b8d4@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2024: https://www.feiertage-deutschland.de/schulferien/2024/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/bewegliche-ferientage/
+SUMMARY:Schulfreier Tag Berlin 2024
+DTSTART;VALUE=DATE:20240510
+DTEND;VALUE=DATE:20240511
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e1688d530088c4c55a73f80921dd2d@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2024: https://www.feiertage-deutschland.de/schulferien/2024/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/bewegliche-ferientage/
+SUMMARY:Schulfreier Tag Berlin 2024
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241005
+END:VEVENT
+BEGIN:VEVENT
+UID:73445a8fe6da19d4d85e9445d99149d7@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2025: https://www.feiertage-deutschland.de/schulferien/2025/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/winterferien/
+SUMMARY:Winterferien Berlin 2025
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250209
+END:VEVENT
+BEGIN:VEVENT
+UID:64cedf359acf0e9d75ecaea03c5c8773@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2025: https://www.feiertage-deutschland.de/schulferien/2025/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/osterferien/
+SUMMARY:Osterferien Berlin 2025
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250426
+END:VEVENT
+BEGIN:VEVENT
+UID:c7799a093cdf2cdf50b864efa457fbe4@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2025: https://www.feiertage-deutschland.de/schulferien/2025/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/pfingstferien/
+SUMMARY:Pfingstferien Berlin 2025
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250611
+END:VEVENT
+BEGIN:VEVENT
+UID:ee611e1859ba639eef86616e713fe850@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2025: https://www.feiertage-deutschland.de/schulferien/2025/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/sommerferien/
+SUMMARY:Sommerferien Berlin 2025
+DTSTART;VALUE=DATE:20250724
+DTEND;VALUE=DATE:20250907
+END:VEVENT
+BEGIN:VEVENT
+UID:916e76a30914d809dbebdc53970f75c9@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2025: https://www.feiertage-deutschland.de/schulferien/2025/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/herbstferien/
+SUMMARY:Herbstferien Berlin 2025
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251102
+END:VEVENT
+BEGIN:VEVENT
+UID:fa3ed989fd98aa4bf42f5376d0423391@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2025: https://www.feiertage-deutschland.de/schulferien/2025/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/weihnachtsferien/
+SUMMARY:Weihnachtsferien Berlin 2025
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20260103
+END:VEVENT
+BEGIN:VEVENT
+UID:dec3e70e0fc4ab48aa5ee6e2a75530bf@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2025: https://www.feiertage-deutschland.de/schulferien/2025/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/bewegliche-ferientage/
+SUMMARY:Schulfreier Tag Berlin 2025
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+END:VEVENT
+BEGIN:VEVENT
+UID:6c4e94becea540654c2c5d734976491e@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2025: https://www.feiertage-deutschland.de/schulferien/2025/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/bewegliche-ferientage/
+SUMMARY:Schulfreier Tag Berlin 2025
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250531
+END:VEVENT
+BEGIN:VEVENT
+UID:51fc9caa0012c6e158f41f97de2b3f89@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2026: https://www.feiertage-deutschland.de/schulferien/2026/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/winterferien/
+SUMMARY:Winterferien Berlin 2026
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260208
+END:VEVENT
+BEGIN:VEVENT
+UID:ac719beca62ed4ce52e2fb6f674bdd65@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2026: https://www.feiertage-deutschland.de/schulferien/2026/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/osterferien/
+SUMMARY:Osterferien Berlin 2026
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260411
+END:VEVENT
+BEGIN:VEVENT
+UID:3fc29d298e8d93570ce52600d6f3f627@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2026: https://www.feiertage-deutschland.de/schulferien/2026/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/pfingstferien/
+SUMMARY:Pfingstferien Berlin 2026
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+END:VEVENT
+BEGIN:VEVENT
+UID:37042010007365400b6df8b0f048e4b9@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2026: https://www.feiertage-deutschland.de/schulferien/2026/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/sommerferien/
+SUMMARY:Sommerferien Berlin 2026
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260823
+END:VEVENT
+BEGIN:VEVENT
+UID:735a36c1f1052219c31fb414831d6e2a@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2026: https://www.feiertage-deutschland.de/schulferien/2026/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/herbstferien/
+SUMMARY:Herbstferien Berlin 2026
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261101
+END:VEVENT
+BEGIN:VEVENT
+UID:80d26591f9a88209990cbeb24465c93a@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2026: https://www.feiertage-deutschland.de/schulferien/2026/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/weihnachtsferien/
+SUMMARY:Weihnachtsferien Berlin 2026
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20270103
+END:VEVENT
+BEGIN:VEVENT
+UID:ca43bf48adc67e4d3944cb0755e745ba@feiertage-deutschland.de
+DTSTAMP:20230501T035643Z
+LOCATION:BE
+DESCRIPTION:Schulferien 2026: https://www.feiertage-deutschland.de/schulferien/2026/
+URL;VALUE=URI:https://www.feiertage-deutschland.de/schulferien/bewegliche-ferientage/
+SUMMARY:Schulfreier Tag Berlin 2026
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+END:VEVENT
+END:VCALENDAR
